@@ -1,6 +1,6 @@
 # Starting with SOAP: rapid deployment of contact tracing technologies in a pandemic
 
-This repository contains a white paper designed to support discussions and evaluations of potential contact tracing technologies according to several criteria. These include:  
+This repository contains a white paper designed to support discussions and evaluations of potential contact tracing technologies, taking in perspectives from several disciplines engaged with the debate. These include:  
 
 * the extent to which technologies supporting contact tracing **preserve individual or community privacy**; 
 * the extent to which they’re **secure** from malicious or inadvertent misuse; 
@@ -13,7 +13,8 @@ SOAP has been designed with support from researchers across the [Australian Nati
 This document simply provides an introduction to SOAP. It’s designed to encourage existing discussions regarding contact tracing technologies to engage with a broader range of considerations, and start to explore interdependencies and inconsistencies between solutions currently being proposed. In future versions of this framework, we are exploring:
 
 * Creating a formal evaluation method, refining criteria by which technology solutions might be considered and assigning weights to each. Where aspects of a solution are negatively weighted, mitigation actions might be proposed
-* Turning a high level SOAP overview into a visual communication tool
+* Releasing high level assessments of specific proposed contact tracing solutions already in production, employing SOAP concepts
+* Turning a high level SOAP overview into a visual tool using systems concepts
 * Creating guidance and training to support organisations bringing together related and interdependent perspectives shaping contact tracing technologies
 
 
@@ -21,7 +22,7 @@ This document simply provides an introduction to SOAP. It’s designed to encour
 
 * Ellen Broad, Senior Fellow, 3A Institute; 
 * Dr. Meru Sheel, National Centre for Epidemiology and Population Health, Research School of Population Health, College of Health and Medicine; 
-* Professor Seth Lazar, School of Philosophy, Project Leader, Humanising Machine Intelligence; 
+* Professor Seth Lazar, School of Philosophy, Project Leader, and Atoosa Kasirzadeh, Research Fellow, Humanising Machine Intelligence; 
 * Dilan Thampapillai, Senior Lecturer, ANU College of Law; 
 * Associate Professor Jochen Trumpf, Director, Software Innovation Institute and Professor Graham Williams, Chief Scientist, Software Innovation Institute; 
 * Dr. Amy McLennan, Research Fellow, Kathy Reid, Researcher, Dr. Caitlin Bentley, Associate Professor Katherine Daniell, all of the 3A Institute; 
