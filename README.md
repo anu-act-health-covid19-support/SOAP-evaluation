@@ -6,7 +6,6 @@ Our aim is to create space for discussing and evaluating potential contact traci
 
 SOAP has been designed with support from researchers across the ANU, including computer scientists, cryptographers, legal scholars, epidemiologists, philosophers, data analysts, user researchers, anthropologists, engineers and social scientists. The technical, social, legal and contextual considerations it includes reflect the practicalities - and complexities - of designing and deploying technology solutions. These decisions cannot be left to one discipline, or one frame of reference. Ultimately, while the contributors to this document span a range of disciplines, we share two common goals: supporting contact tracing during a disease outbreak with responsible, safe technologies where it makes sense to deploy them; and ensuring citizens can trust that any technologies being deployed cannot and will not be used in ways that ultimately harm them.
 
-If you are working on a similar project and would like to exchange emails, please contact the lead author: ellen.broad@anu.edu.au. You can provide feedback on the white paper by raising an [issue](
+If you are working on a similar project and would like to exchange emails, please contact the lead author: ellen.broad@anu.edu.au. You can provide feedback on the white paper by raising an [issue](https://github.com/anu-act-health-covid19-support/SOAP-evaluation/issues) or by email to the lead author.
 
-
-Working documents associated with evaluation method for contact tracing technologies
+Version 1.0 of this white paper was published on 21 April 2020. It will be supplemented by high level reviews of contact tracing solutions in deployment applying SOAP concept over the following week. 
