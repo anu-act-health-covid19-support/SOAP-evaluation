@@ -32,7 +32,7 @@ This document simply provides an introduction to SOAP. It’s designed to encour
 
 ## Getting in touch
 
-If you are working on a similar project and would like to exchange emails, please contact the lead author: ellen.broad@anu.edu.au. You can provide feedback on the white paper by raising an [issue](https://github.com/anu-act-health-covid19-support/SOAP-evaluation/issues) or by email to the lead author.
+If you are working on a similar project and would like to exchange emails, please contact the project team: [anuactcovid19@anu.edu.au](mailto:anuactcovid19@anu.edu.au?Subject=Inquiry from GitHub). You can provide feedback on the white paper by raising an [issue](https://github.com/anu-act-health-covid19-support/SOAP-evaluation/issues) or by email to the project team.
 
 Version 1.0 of this white paper was published on 21 April 2020. It will be supplemented by high level reviews of contact tracing solutions in deployment applying SOAP concept over the following week.
 
