@@ -13,7 +13,7 @@ SOAP has been designed with support from researchers across the [Australian Nati
 This document simply provides an introduction to SOAP. It’s designed to encourage existing discussions regarding contact tracing technologies to engage with a broader range of considerations, and start to explore interdependencies and inconsistencies between solutions currently being proposed. In future versions of this framework, we are exploring:
 
 * Creating a formal evaluation method, refining criteria by which technology solutions might be considered and assigning weights to each. Where aspects of a solution are negatively weighted, mitigation actions might be proposed
-* Releasing high level assessments of specific proposed contact tracing solutions already in production, employing SOAP concepts
+* Releasing high level assessments of specific proposed contact tracing solutions already in production, employing SOAP concepts (**Update**: assessments completed so far are available [here](https://github.com/anu-act-health-covid19-support/SOAP-evaluation/tree/master/SOAP-applied).
 * Turning a high level SOAP overview into a visual tool using systems concepts
 * Creating guidance and training to support organisations bringing together related and interdependent perspectives shaping contact tracing technologies
 
